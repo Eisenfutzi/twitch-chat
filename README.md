@@ -10,4 +10,4 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 
 Original version: [https://echtkpvl.github.io/echt-twitch/chat-stats.html](https://echtkpvl.github.io/echt-twitch/chat-stats.html)
-My Version:https://github.com/Eisenfutzi/twitch-chat/chat-stats.html
+My Version: [https://Eisenfutzi/github.com/twitch-chat/chat-stats.html]
