@@ -1,6 +1,6 @@
 # Eisenfutzi
 
-## chat-stats.html
+## twitch-chat.html
 
 A simple tool to gather some stats about a chat and his chatters. No login or token needed.
 
