@@ -1,5 +1,0 @@
-
-<link rel="stylesheet" href="/twitch-chat/assets/css/normalize.css">
-<link rel="shortcut icon" type="image/x-icon" href="admin.png">
-<meta name="msapplication-TileColor" content="#999999">
-<meta name="theme-color" content="#ffffff">
