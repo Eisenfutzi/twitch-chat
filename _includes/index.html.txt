@@ -1,7 +1,4 @@
 
-@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.css">
-
 <link rel="stylesheet" href="/twitch-chat/assets/css/normalize.css">
 <link rel="shortcut icon" type="image/x-icon" href="admin.png">
 <meta name="msapplication-TileColor" content="#999999">
